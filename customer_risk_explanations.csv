@@ -1,0 +1,754 @@
+Customer_Index,Predicted_Default,Top_Feature_1,Top_Feature_2
+0,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+1,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+2,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+3,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+4,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+5,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+6,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+7,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+8,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+9,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+10,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+11,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+12,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+13,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+14,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+15,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+16,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+17,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+18,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+19,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+20,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+21,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+22,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+23,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+24,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+25,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+26,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+27,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+28,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+29,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+30,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+31,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+32,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+33,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+34,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+35,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+36,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+37,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+38,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+39,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+40,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+41,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+42,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+43,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+44,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+45,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+46,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+47,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+48,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+49,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+50,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+51,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+52,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+53,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+54,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+55,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+56,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+57,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+58,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+59,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+60,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+61,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+62,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+63,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+64,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+65,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+66,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+67,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+68,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+69,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+70,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+71,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+72,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+73,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+74,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+75,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+76,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+77,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+78,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+79,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+80,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+81,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+82,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+83,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+84,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+85,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+86,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+87,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+88,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+89,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+90,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+91,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+92,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+93,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+94,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+95,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+96,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+97,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+98,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+99,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+100,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+101,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+102,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+103,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+104,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+105,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+106,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+107,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+108,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+109,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+110,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+111,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+112,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+113,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+114,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+115,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+116,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+117,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+118,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+119,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+120,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+121,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+122,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+123,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+124,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+125,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+126,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+127,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+128,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+129,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+130,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+131,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+132,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+133,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+134,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+135,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+136,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+137,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+138,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+139,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+140,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+141,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+142,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+143,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+144,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+145,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+146,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+147,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+148,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+149,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+150,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+151,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+152,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+153,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+154,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+155,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+156,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+157,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+158,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+159,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+160,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+161,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+162,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+163,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+164,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+165,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+166,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+167,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+168,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+169,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+170,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+171,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+172,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+173,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+174,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+175,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+176,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+177,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+178,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+179,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+180,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+181,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+182,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+183,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+184,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+185,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+186,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+187,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+188,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+189,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+190,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+191,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+192,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+193,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+194,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+195,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+196,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+197,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+198,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+199,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+200,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+201,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+202,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+203,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+204,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+205,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+206,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+207,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+208,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+209,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+210,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+211,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+212,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+213,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+214,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+215,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+216,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+217,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+218,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+219,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+220,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+221,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+222,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+223,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+224,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+225,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+226,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+227,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+228,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+229,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+230,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+231,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+232,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+233,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+234,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+235,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+236,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+237,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+238,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+239,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+240,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+241,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+242,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+243,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+244,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+245,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+246,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+247,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+248,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+249,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)
+250,0,"income = income    3.0
+income    3.0
+Name: 1070, dtype: float64 (impact: 0.001)",credit_score = 691.0 (impact: -0.001)

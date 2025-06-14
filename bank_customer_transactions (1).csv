@@ -1,0 +1,1256 @@
+user_id,date,amount,category,merchant
+1001,4/25/2025,619.69,groceries,Amazon
+1001,4/19/2025,944.45,shopping,Walmart
+1001,2/26/2025,944.81,entertainment,Walmart
+1001,5/19/2025,868.53,shopping,Delta Airlines
+1001,4/10/2025,640.04,travel,Delta Airlines
+1001,2/13/2025,802.94,entertainment,Amazon
+1001,5/2/2025,680.4,entertainment,Amazon
+1001,4/26/2025,577.63,entertainment,Amazon
+1002,3/18/2025,463.67,entertainment,Apple Store
+1002,12/21/2024,550.16,entertainment,Delta Airlines
+1002,4/4/2025,942.05,healthcare,Netflix
+1002,6/7/2025,392.24,bills,CVS
+1002,1/23/2025,961.58,bills,Delta Airlines
+1003,3/5/2025,214.62,shopping,Amazon
+1003,4/18/2025,281.22,bills,Delta Airlines
+1003,3/10/2025,222.44,shopping,Walmart
+1003,5/14/2025,383.49,groceries,Delta Airlines
+1003,2/12/2025,48.57,travel,Apple Store
+1003,5/25/2025,622.07,bills,Apple Store
+1003,2/22/2025,343.19,shopping,Netflix
+1003,3/2/2025,659.17,entertainment,Netflix
+1003,2/10/2025,391.54,bills,Walmart
+1003,1/3/2025,684.8,entertainment,CVS
+1003,5/2/2025,347.22,healthcare,Amazon
+1003,2/22/2025,268.09,entertainment,Netflix
+1003,12/21/2024,501.08,entertainment,Netflix
+1003,6/5/2025,695.96,bills,Amazon
+1004,2/4/2025,632.65,bills,Apple Store
+1004,3/21/2025,878.7,entertainment,Walmart
+1004,2/13/2025,737.72,groceries,Amazon
+1004,5/23/2025,805.45,shopping,Walmart
+1004,6/7/2025,289.21,travel,Netflix
+1004,3/4/2025,185.67,bills,Apple Store
+1005,2/14/2025,572.84,travel,Apple Store
+1005,12/29/2024,580.17,entertainment,Netflix
+1005,3/26/2025,734.33,travel,Delta Airlines
+1005,2/1/2025,136.41,healthcare,Netflix
+1005,3/31/2025,257.52,entertainment,Amazon
+1005,6/1/2025,584.74,entertainment,Apple Store
+1005,4/9/2025,868.45,entertainment,Delta Airlines
+1005,1/3/2025,566.25,shopping,Netflix
+1005,4/14/2025,246.21,entertainment,Amazon
+1005,3/1/2025,683.05,shopping,Walmart
+1005,3/2/2025,742.51,entertainment,CVS
+1005,12/16/2024,245.85,travel,Apple Store
+1005,3/20/2025,383.95,groceries,CVS
+1006,5/30/2025,510.2,entertainment,Delta Airlines
+1006,6/3/2025,828.19,shopping,Amazon
+1006,5/1/2025,326.85,entertainment,Amazon
+1006,5/14/2025,896.57,bills,Amazon
+1006,5/18/2025,395.31,bills,Netflix
+1007,4/11/2025,958.96,travel,Amazon
+1007,5/3/2025,848.67,travel,Netflix
+1007,2/28/2025,361.36,groceries,Apple Store
+1007,5/9/2025,957.23,entertainment,Delta Airlines
+1007,6/1/2025,680,travel,Amazon
+1007,1/24/2025,487.7,groceries,Amazon
+1007,1/16/2025,498.1,travel,Netflix
+1007,5/4/2025,92.45,shopping,CVS
+1007,6/10/2025,100.79,travel,Delta Airlines
+1007,5/31/2025,606.42,healthcare,Netflix
+1007,5/29/2025,558.17,bills,Amazon
+1007,4/26/2025,220.6,bills,CVS
+1007,12/19/2024,946.73,bills,Delta Airlines
+1007,1/12/2025,783.48,entertainment,Netflix
+1007,4/16/2025,122.33,healthcare,Walmart
+1007,3/29/2025,931.62,travel,Delta Airlines
+1008,1/27/2025,66.98,travel,Amazon
+1008,3/8/2025,554.03,healthcare,Apple Store
+1008,3/11/2025,447.12,shopping,Apple Store
+1008,3/13/2025,888.83,healthcare,CVS
+1008,1/13/2025,357.41,travel,Amazon
+1008,5/11/2025,125.9,entertainment,CVS
+1008,12/31/2024,151.56,travel,Delta Airlines
+1008,5/9/2025,763.9,travel,Walmart
+1008,4/13/2025,622.04,shopping,Delta Airlines
+1008,5/22/2025,110.11,groceries,Amazon
+1008,5/23/2025,93.27,bills,Amazon
+1008,12/29/2024,703.96,bills,Netflix
+1008,5/8/2025,82.04,healthcare,Walmart
+1008,12/12/2024,823.64,groceries,Delta Airlines
+1009,4/20/2025,155.14,entertainment,CVS
+1009,2/19/2025,518.19,groceries,Netflix
+1009,2/5/2025,240.9,bills,Walmart
+1009,2/14/2025,585.49,shopping,Amazon
+1009,3/18/2025,864.51,travel,Netflix
+1009,4/13/2025,881.56,entertainment,Walmart
+1009,3/7/2025,244.32,entertainment,Delta Airlines
+1009,4/15/2025,908.62,healthcare,Amazon
+1009,2/5/2025,595.97,healthcare,Netflix
+1009,3/24/2025,356.72,healthcare,Netflix
+1009,3/15/2025,711.1,shopping,Apple Store
+1009,2/9/2025,486.85,travel,Amazon
+1009,12/11/2024,384.21,bills,Walmart
+1009,5/29/2025,708.03,shopping,Walmart
+1010,1/9/2025,907.29,shopping,Apple Store
+1010,4/29/2025,120.09,healthcare,Delta Airlines
+1010,3/2/2025,497.7,groceries,Walmart
+1010,5/20/2025,21.24,bills,Netflix
+1010,4/30/2025,473.97,travel,Apple Store
+1010,5/9/2025,65.74,shopping,Delta Airlines
+1010,2/12/2025,127.63,travel,Delta Airlines
+1010,5/3/2025,126.35,travel,Delta Airlines
+1010,2/12/2025,652.72,shopping,Netflix
+1010,2/4/2025,748.58,bills,Amazon
+1010,3/19/2025,587.54,shopping,Delta Airlines
+1010,5/24/2025,962.55,bills,Amazon
+1010,2/9/2025,381.12,travel,Amazon
+1010,3/31/2025,292.85,shopping,Apple Store
+1011,5/29/2025,533.09,bills,CVS
+1011,4/12/2025,441.97,bills,Walmart
+1011,1/25/2025,804.09,healthcare,Netflix
+1011,2/15/2025,978.12,travel,Apple Store
+1011,6/7/2025,560.44,healthcare,Delta Airlines
+1011,3/3/2025,329.46,healthcare,Walmart
+1011,1/12/2025,52.97,groceries,CVS
+1011,3/2/2025,925.4,groceries,Amazon
+1011,2/1/2025,919.92,entertainment,Walmart
+1011,4/19/2025,260.46,shopping,CVS
+1011,5/6/2025,698.46,travel,Netflix
+1011,2/15/2025,84.68,travel,Apple Store
+1012,1/8/2025,633.1,shopping,Apple Store
+1012,5/31/2025,698.79,groceries,CVS
+1012,12/16/2024,460,bills,Walmart
+1012,1/15/2025,631.28,groceries,Netflix
+1012,5/5/2025,588.47,groceries,Delta Airlines
+1012,3/28/2025,902.15,entertainment,Delta Airlines
+1012,3/2/2025,54.99,entertainment,Amazon
+1012,3/20/2025,288.15,groceries,Apple Store
+1012,1/2/2025,950.91,entertainment,CVS
+1012,1/14/2025,891.36,entertainment,Apple Store
+1012,1/2/2025,461.1,travel,Walmart
+1012,4/3/2025,623.93,entertainment,CVS
+1012,2/10/2025,284.61,shopping,Netflix
+1012,5/21/2025,196.24,travel,Walmart
+1012,4/11/2025,469.06,bills,Apple Store
+1012,2/19/2025,359.82,entertainment,Walmart
+1012,5/4/2025,587.82,entertainment,Walmart
+1012,12/30/2024,86.96,groceries,CVS
+1012,1/22/2025,974.65,groceries,Walmart
+1013,5/30/2025,701.18,groceries,Apple Store
+1013,12/20/2024,540.74,healthcare,Walmart
+1013,4/15/2025,316.43,shopping,Walmart
+1013,2/13/2025,815.66,shopping,Netflix
+1013,4/3/2025,687.88,travel,Walmart
+1013,12/14/2024,170.99,travel,Amazon
+1013,3/21/2025,911.82,bills,Walmart
+1013,4/13/2025,824.31,healthcare,Apple Store
+1013,12/20/2024,950.3,groceries,Apple Store
+1013,4/24/2025,728.46,entertainment,Netflix
+1013,4/6/2025,617.28,bills,Apple Store
+1013,2/4/2025,424.06,healthcare,Netflix
+1013,12/10/2024,933.4,travel,Amazon
+1013,12/22/2024,867.4,travel,Delta Airlines
+1013,1/16/2025,54.77,shopping,Apple Store
+1014,3/21/2025,417.14,travel,Amazon
+1014,4/2/2025,779.83,healthcare,CVS
+1014,6/1/2025,485.57,groceries,Delta Airlines
+1014,12/28/2024,985.43,entertainment,Walmart
+1014,5/29/2025,382.97,healthcare,Walmart
+1014,2/16/2025,752.08,bills,CVS
+1014,4/6/2025,399.06,travel,Delta Airlines
+1014,12/11/2024,830.87,healthcare,CVS
+1014,1/17/2025,573.39,travel,Delta Airlines
+1014,3/23/2025,72.88,bills,Apple Store
+1014,2/22/2025,46.45,bills,CVS
+1015,3/1/2025,280.67,entertainment,Amazon
+1015,3/15/2025,65.81,entertainment,Amazon
+1015,5/11/2025,866.08,entertainment,Delta Airlines
+1015,4/5/2025,814.77,healthcare,Delta Airlines
+1015,2/27/2025,999.72,shopping,Walmart
+1015,6/7/2025,996.67,bills,Walmart
+1015,5/27/2025,559.88,entertainment,Amazon
+1015,4/10/2025,771.3,healthcare,CVS
+1015,2/26/2025,945.32,healthcare,Walmart
+1015,12/16/2024,851.15,bills,Amazon
+1015,2/25/2025,254.87,healthcare,Apple Store
+1015,4/10/2025,456.04,groceries,Delta Airlines
+1015,1/9/2025,137.87,groceries,Delta Airlines
+1015,1/5/2025,954.51,groceries,CVS
+1015,5/1/2025,610.11,entertainment,Walmart
+1015,4/19/2025,236.36,entertainment,CVS
+1015,5/27/2025,674.98,bills,Delta Airlines
+1015,2/27/2025,621.95,shopping,Walmart
+1015,12/14/2024,364.58,healthcare,Amazon
+1016,4/14/2025,31.96,entertainment,Amazon
+1016,5/15/2025,503.18,travel,Netflix
+1016,1/15/2025,481.45,healthcare,CVS
+1016,2/10/2025,833.06,travel,Walmart
+1016,3/23/2025,314.7,entertainment,Delta Airlines
+1016,1/10/2025,818.22,entertainment,Amazon
+1016,2/8/2025,968.29,travel,Apple Store
+1016,4/29/2025,97.52,travel,Walmart
+1016,3/4/2025,793.9,healthcare,Amazon
+1016,4/18/2025,594.06,bills,Delta Airlines
+1016,5/21/2025,485.25,entertainment,Netflix
+1016,5/8/2025,426.33,bills,Apple Store
+1017,2/12/2025,624.11,healthcare,Delta Airlines
+1017,5/1/2025,707.04,groceries,Apple Store
+1017,4/6/2025,220.83,bills,CVS
+1017,3/31/2025,145.01,entertainment,Netflix
+1017,1/5/2025,24.4,travel,Amazon
+1017,3/13/2025,357.08,entertainment,CVS
+1017,6/6/2025,594.02,healthcare,CVS
+1017,1/12/2025,398.32,healthcare,Delta Airlines
+1017,3/26/2025,443.1,groceries,Amazon
+1018,4/16/2025,729.13,shopping,Amazon
+1018,5/6/2025,551.97,entertainment,Amazon
+1018,4/22/2025,456.4,shopping,Apple Store
+1018,5/17/2025,911.37,travel,Amazon
+1018,3/22/2025,304.98,healthcare,Amazon
+1018,5/9/2025,528.37,groceries,Apple Store
+1018,1/24/2025,700.67,travel,CVS
+1018,5/17/2025,798.51,groceries,Walmart
+1018,3/15/2025,464.75,groceries,Apple Store
+1018,3/3/2025,843.67,groceries,Netflix
+1018,4/29/2025,771.23,bills,Delta Airlines
+1018,1/30/2025,75.57,healthcare,Netflix
+1018,12/18/2024,55.4,entertainment,Apple Store
+1018,2/27/2025,624.6,bills,CVS
+1018,4/24/2025,353.94,shopping,Amazon
+1018,5/7/2025,217.04,groceries,Delta Airlines
+1018,5/27/2025,583.85,healthcare,Walmart
+1018,4/15/2025,348.15,bills,CVS
+1018,4/4/2025,541.89,groceries,Apple Store
+1019,4/9/2025,136.77,healthcare,Netflix
+1019,1/19/2025,160.38,entertainment,Amazon
+1019,12/14/2024,147.44,bills,Walmart
+1019,12/13/2024,644.47,healthcare,Delta Airlines
+1019,3/29/2025,190.06,bills,Apple Store
+1019,1/15/2025,352.21,groceries,Amazon
+1019,2/22/2025,897.82,groceries,Netflix
+1019,4/19/2025,479.22,entertainment,Walmart
+1019,5/9/2025,670.88,groceries,Apple Store
+1019,5/28/2025,180.6,entertainment,Apple Store
+1019,5/8/2025,200.37,shopping,Amazon
+1020,1/24/2025,823.57,healthcare,CVS
+1020,12/12/2024,351.63,bills,Walmart
+1020,1/13/2025,354.14,entertainment,Delta Airlines
+1020,1/30/2025,41.49,travel,Walmart
+1020,3/21/2025,553.23,groceries,Netflix
+1020,4/28/2025,539.08,shopping,CVS
+1020,4/12/2025,362.43,healthcare,Amazon
+1021,12/17/2024,370.63,shopping,Amazon
+1021,12/22/2024,508.38,entertainment,Netflix
+1021,3/7/2025,693.49,healthcare,Amazon
+1021,4/4/2025,48.92,travel,Apple Store
+1021,1/26/2025,801.42,travel,Apple Store
+1021,12/24/2024,631.62,healthcare,CVS
+1021,5/1/2025,90.94,healthcare,Walmart
+1021,5/6/2025,874.84,healthcare,Walmart
+1021,4/21/2025,921.66,entertainment,Delta Airlines
+1021,1/14/2025,70.47,bills,Netflix
+1021,5/25/2025,284.11,healthcare,CVS
+1021,4/14/2025,808.14,entertainment,Amazon
+1021,4/4/2025,750.78,travel,Delta Airlines
+1021,5/10/2025,192.68,entertainment,Delta Airlines
+1021,4/30/2025,217.26,bills,Walmart
+1021,5/30/2025,376.77,shopping,CVS
+1021,3/2/2025,489.68,travel,Delta Airlines
+1021,5/19/2025,622.07,travel,Amazon
+1022,12/24/2024,535.95,healthcare,Walmart
+1022,12/10/2024,723.31,shopping,Amazon
+1022,1/13/2025,71.72,entertainment,Delta Airlines
+1022,4/25/2025,156.26,groceries,Apple Store
+1022,3/16/2025,141.79,travel,Amazon
+1022,1/22/2025,690.29,travel,CVS
+1022,5/27/2025,846,shopping,Netflix
+1022,5/11/2025,752.12,travel,Walmart
+1022,2/6/2025,40.17,entertainment,CVS
+1022,1/12/2025,868.54,bills,Netflix
+1022,5/18/2025,360.61,healthcare,Delta Airlines
+1023,3/2/2025,250.05,entertainment,CVS
+1023,6/2/2025,276.55,shopping,Walmart
+1023,1/13/2025,383.51,groceries,Walmart
+1023,6/5/2025,29.87,travel,Amazon
+1023,5/16/2025,328.86,shopping,Walmart
+1023,1/12/2025,219.33,shopping,Amazon
+1023,2/20/2025,334.22,entertainment,CVS
+1024,2/15/2025,240.88,travel,Delta Airlines
+1024,1/13/2025,349.5,groceries,Walmart
+1024,1/28/2025,479.23,shopping,Amazon
+1024,5/27/2025,361.55,travel,CVS
+1024,3/23/2025,652.33,shopping,CVS
+1024,1/22/2025,484.79,shopping,Netflix
+1024,1/1/2025,588.36,entertainment,Walmart
+1024,1/14/2025,739.45,entertainment,Delta Airlines
+1024,1/27/2025,562.16,healthcare,Walmart
+1024,1/26/2025,590.67,bills,Apple Store
+1024,1/13/2025,568.81,groceries,Delta Airlines
+1024,3/28/2025,384.98,shopping,Delta Airlines
+1024,4/28/2025,344.07,healthcare,Netflix
+1024,1/15/2025,900.65,healthcare,Delta Airlines
+1024,6/10/2025,611.48,healthcare,Netflix
+1024,4/16/2025,251.91,entertainment,Netflix
+1025,2/12/2025,986.65,entertainment,Amazon
+1025,2/25/2025,609.72,healthcare,Delta Airlines
+1025,1/3/2025,244.85,entertainment,Delta Airlines
+1025,4/26/2025,110.76,healthcare,Delta Airlines
+1025,1/25/2025,161.33,groceries,Apple Store
+1025,5/13/2025,253.5,shopping,Netflix
+1025,5/25/2025,169.07,travel,CVS
+1025,3/18/2025,194.7,healthcare,CVS
+1025,6/10/2025,292.24,healthcare,Walmart
+1025,3/7/2025,181.64,shopping,Amazon
+1025,5/19/2025,897.8,travel,Netflix
+1025,2/19/2025,89.43,groceries,CVS
+1025,6/1/2025,529.27,shopping,Walmart
+1025,2/20/2025,416.29,healthcare,Amazon
+1025,2/26/2025,982.55,shopping,Apple Store
+1026,2/11/2025,897.64,travel,Delta Airlines
+1026,4/30/2025,580.24,groceries,Amazon
+1026,12/30/2024,918.22,groceries,Delta Airlines
+1026,12/23/2024,15.25,bills,Amazon
+1026,3/12/2025,975.32,healthcare,Netflix
+1026,1/18/2025,495.84,groceries,Walmart
+1026,4/28/2025,725.67,travel,CVS
+1026,12/24/2024,822.65,entertainment,CVS
+1026,1/25/2025,721.27,bills,Walmart
+1026,6/10/2025,539.69,shopping,Amazon
+1026,4/30/2025,481.85,healthcare,Amazon
+1026,4/25/2025,840.2,bills,Netflix
+1026,5/21/2025,213.03,healthcare,Apple Store
+1026,2/17/2025,968.31,groceries,Netflix
+1026,2/27/2025,713.84,bills,Netflix
+1026,2/27/2025,207.51,groceries,Amazon
+1026,1/5/2025,738.88,bills,Walmart
+1026,2/22/2025,534.54,bills,Netflix
+1026,2/28/2025,710.16,travel,Delta Airlines
+1027,12/30/2024,295.74,groceries,Amazon
+1027,1/2/2025,585.43,shopping,Delta Airlines
+1027,2/13/2025,162.82,shopping,CVS
+1027,1/17/2025,486.33,shopping,Amazon
+1027,2/22/2025,537.26,groceries,Amazon
+1027,2/12/2025,61.31,entertainment,Delta Airlines
+1027,3/22/2025,343.24,shopping,Apple Store
+1027,12/26/2024,143.07,groceries,Delta Airlines
+1027,4/23/2025,72.74,entertainment,Apple Store
+1027,2/8/2025,990.06,bills,Amazon
+1027,4/2/2025,329.13,entertainment,Amazon
+1027,1/27/2025,811.78,groceries,Delta Airlines
+1027,12/24/2024,262.09,healthcare,CVS
+1027,6/5/2025,684.69,bills,Apple Store
+1027,1/1/2025,762.63,bills,Apple Store
+1027,4/10/2025,599.68,shopping,Delta Airlines
+1027,1/1/2025,476.86,travel,Netflix
+1027,2/19/2025,417.72,healthcare,CVS
+1028,2/27/2025,115.63,shopping,Netflix
+1028,3/19/2025,852.22,groceries,Delta Airlines
+1028,5/22/2025,748.51,travel,Apple Store
+1028,3/9/2025,414.43,groceries,Delta Airlines
+1028,5/8/2025,933.61,entertainment,CVS
+1028,3/4/2025,991.02,bills,Walmart
+1028,4/20/2025,212.95,bills,Apple Store
+1028,4/16/2025,385.44,travel,Netflix
+1028,3/25/2025,927.18,healthcare,CVS
+1028,5/28/2025,724.38,shopping,CVS
+1028,1/31/2025,57.61,healthcare,Walmart
+1028,12/25/2024,783.7,travel,Delta Airlines
+1028,4/14/2025,829.66,groceries,Apple Store
+1028,6/4/2025,753,shopping,Delta Airlines
+1028,1/26/2025,801.54,healthcare,Delta Airlines
+1028,1/18/2025,826.88,healthcare,Netflix
+1028,1/23/2025,194.54,shopping,Apple Store
+1028,1/6/2025,243.33,bills,Apple Store
+1029,5/3/2025,527.83,bills,Apple Store
+1029,1/12/2025,365.24,groceries,Netflix
+1029,4/8/2025,878.43,bills,Walmart
+1029,1/19/2025,398.52,entertainment,Apple Store
+1029,6/6/2025,818.43,shopping,Delta Airlines
+1029,12/30/2024,444.74,shopping,Apple Store
+1029,2/17/2025,383.17,shopping,Walmart
+1029,4/26/2025,468.05,healthcare,Walmart
+1029,2/15/2025,308.36,shopping,Apple Store
+1029,1/23/2025,750.13,groceries,Apple Store
+1029,5/9/2025,507.69,groceries,Amazon
+1029,2/4/2025,239.89,travel,Walmart
+1029,4/14/2025,900.58,groceries,Amazon
+1029,2/22/2025,390.05,groceries,Amazon
+1029,2/5/2025,548.12,groceries,Apple Store
+1029,4/16/2025,907.41,entertainment,Walmart
+1029,5/15/2025,628,healthcare,Walmart
+1029,3/9/2025,125.73,groceries,Walmart
+1030,3/6/2025,339.49,bills,Apple Store
+1030,5/17/2025,733.24,groceries,Walmart
+1030,2/12/2025,696.78,healthcare,Delta Airlines
+1030,5/11/2025,175.06,healthcare,Netflix
+1030,12/26/2024,879.84,groceries,Apple Store
+1030,6/4/2025,500.47,healthcare,Netflix
+1030,2/20/2025,744.05,groceries,Amazon
+1030,4/17/2025,577.42,shopping,Netflix
+1030,12/23/2024,997.72,healthcare,Apple Store
+1030,5/20/2025,754.88,groceries,Amazon
+1031,12/19/2024,256,healthcare,Walmart
+1031,3/20/2025,746.51,entertainment,Delta Airlines
+1031,1/21/2025,43.2,groceries,Amazon
+1031,5/31/2025,574.19,groceries,Amazon
+1031,3/5/2025,764.83,healthcare,Walmart
+1031,3/13/2025,878,bills,Delta Airlines
+1031,2/4/2025,348.66,bills,Amazon
+1031,3/8/2025,823.04,entertainment,Amazon
+1031,4/14/2025,119.53,bills,Walmart
+1031,6/6/2025,847.99,healthcare,Apple Store
+1031,4/24/2025,136.21,travel,Amazon
+1031,5/28/2025,403.31,entertainment,Netflix
+1031,1/9/2025,799.32,travel,Delta Airlines
+1031,2/28/2025,158.42,bills,Netflix
+1031,4/18/2025,236.96,shopping,Delta Airlines
+1031,12/11/2024,725.03,groceries,CVS
+1031,1/13/2025,722.84,healthcare,CVS
+1032,3/6/2025,602.46,groceries,Netflix
+1032,3/15/2025,569.85,healthcare,Netflix
+1032,5/11/2025,719.02,travel,CVS
+1032,6/5/2025,603.04,travel,Apple Store
+1032,1/27/2025,828.53,bills,Netflix
+1032,1/6/2025,959.48,groceries,Walmart
+1032,6/7/2025,349.1,entertainment,Walmart
+1032,1/16/2025,235.08,entertainment,Delta Airlines
+1032,4/8/2025,429.36,bills,Apple Store
+1032,6/5/2025,295.05,entertainment,Netflix
+1032,4/14/2025,618.8,healthcare,Netflix
+1032,4/10/2025,912.73,entertainment,Delta Airlines
+1032,12/27/2024,147.73,groceries,CVS
+1032,5/2/2025,109.79,healthcare,Delta Airlines
+1032,1/18/2025,263.46,travel,Walmart
+1032,12/14/2024,728.83,healthcare,Apple Store
+1032,5/2/2025,597.03,travel,Netflix
+1032,5/26/2025,111.19,entertainment,CVS
+1032,5/20/2025,919.56,groceries,CVS
+1033,5/2/2025,923.27,bills,Netflix
+1033,5/31/2025,710.17,entertainment,Delta Airlines
+1033,12/12/2024,161.01,shopping,Walmart
+1033,4/16/2025,580.53,shopping,Walmart
+1033,5/21/2025,610.65,travel,Walmart
+1033,1/1/2025,429.89,groceries,Walmart
+1033,12/15/2024,739.08,travel,Walmart
+1033,3/12/2025,935.02,shopping,Delta Airlines
+1033,1/30/2025,926.31,travel,Delta Airlines
+1034,2/26/2025,131.58,travel,Apple Store
+1034,2/15/2025,243.55,shopping,CVS
+1034,4/17/2025,173.87,bills,Walmart
+1034,4/23/2025,194.46,travel,Walmart
+1034,4/3/2025,839.12,bills,Walmart
+1034,5/17/2025,338.82,groceries,CVS
+1034,6/8/2025,318.33,groceries,Apple Store
+1034,1/16/2025,235.12,travel,Walmart
+1034,2/10/2025,611.82,entertainment,Netflix
+1034,6/3/2025,385.51,shopping,Amazon
+1034,1/21/2025,746.81,shopping,Amazon
+1035,1/9/2025,804.82,travel,Delta Airlines
+1035,4/8/2025,14.59,entertainment,CVS
+1035,5/28/2025,340.16,bills,CVS
+1035,3/26/2025,404.19,healthcare,Netflix
+1035,3/20/2025,542.02,groceries,Amazon
+1035,3/12/2025,920.66,bills,Apple Store
+1035,5/24/2025,352.88,bills,Apple Store
+1035,1/26/2025,353.48,travel,Netflix
+1035,3/2/2025,740.13,groceries,Amazon
+1035,3/19/2025,457.7,healthcare,Amazon
+1035,3/13/2025,232.36,groceries,Apple Store
+1035,3/30/2025,457.92,travel,CVS
+1035,1/1/2025,149.45,groceries,Amazon
+1035,1/12/2025,184.62,healthcare,Netflix
+1036,2/15/2025,173.86,healthcare,Netflix
+1036,4/1/2025,43.54,travel,CVS
+1036,3/16/2025,318.36,healthcare,Amazon
+1036,12/31/2024,782.69,shopping,CVS
+1036,3/14/2025,284.81,healthcare,Delta Airlines
+1036,5/7/2025,227.9,entertainment,Apple Store
+1036,6/5/2025,220.55,groceries,CVS
+1036,2/20/2025,520.02,healthcare,Apple Store
+1036,4/10/2025,975.79,entertainment,Apple Store
+1036,1/29/2025,464.4,entertainment,Delta Airlines
+1036,5/16/2025,561.73,travel,Amazon
+1037,12/14/2024,94.5,bills,Amazon
+1037,1/21/2025,996.91,groceries,Walmart
+1037,4/8/2025,507.17,entertainment,Delta Airlines
+1037,5/28/2025,599.43,shopping,Amazon
+1037,1/30/2025,76.41,entertainment,Walmart
+1037,4/8/2025,752.46,shopping,Apple Store
+1037,2/2/2025,217.81,entertainment,Walmart
+1037,1/7/2025,899.07,travel,CVS
+1037,5/22/2025,213.09,travel,Amazon
+1037,3/30/2025,198.78,shopping,Delta Airlines
+1038,1/18/2025,383.95,entertainment,Apple Store
+1038,2/20/2025,838.2,bills,Amazon
+1038,12/17/2024,591.58,travel,Walmart
+1038,5/23/2025,301.1,healthcare,CVS
+1038,12/12/2024,716.92,shopping,Walmart
+1038,1/30/2025,532.37,travel,Apple Store
+1038,2/21/2025,539.11,entertainment,Walmart
+1038,1/20/2025,486.28,bills,Amazon
+1038,1/27/2025,502.04,travel,Apple Store
+1038,3/18/2025,767.7,bills,Delta Airlines
+1038,4/26/2025,111.95,travel,Netflix
+1038,3/31/2025,341.02,groceries,Delta Airlines
+1038,5/29/2025,84.75,healthcare,Walmart
+1038,3/11/2025,755.71,entertainment,Netflix
+1038,3/24/2025,279.58,shopping,CVS
+1038,4/29/2025,898.46,groceries,Walmart
+1038,3/2/2025,531.31,entertainment,Delta Airlines
+1039,1/8/2025,35.13,healthcare,Delta Airlines
+1039,12/19/2024,164.59,travel,Amazon
+1039,12/15/2024,718.81,groceries,CVS
+1039,4/4/2025,662.33,travel,Delta Airlines
+1039,5/3/2025,36.83,healthcare,Walmart
+1040,5/14/2025,261.35,groceries,CVS
+1040,2/15/2025,204.15,bills,Walmart
+1040,12/31/2024,510.45,groceries,Netflix
+1040,2/8/2025,599.1,shopping,CVS
+1040,5/6/2025,345.88,groceries,Apple Store
+1040,3/5/2025,573.75,shopping,Amazon
+1040,4/8/2025,888.59,entertainment,Apple Store
+1040,2/22/2025,561.15,entertainment,Apple Store
+1040,4/11/2025,723.6,travel,Netflix
+1040,1/24/2025,807.26,entertainment,Delta Airlines
+1040,1/21/2025,988.84,bills,Amazon
+1041,3/24/2025,808.78,entertainment,Walmart
+1041,2/18/2025,963.02,travel,Delta Airlines
+1041,4/30/2025,944.97,groceries,Apple Store
+1041,4/24/2025,149.67,healthcare,CVS
+1041,3/26/2025,412.33,shopping,Walmart
+1041,5/22/2025,330.75,shopping,Netflix
+1041,12/10/2024,96.06,travel,Netflix
+1041,4/18/2025,636.91,entertainment,Walmart
+1041,5/3/2025,738.55,healthcare,Amazon
+1041,5/4/2025,849.65,entertainment,Delta Airlines
+1041,5/29/2025,131.55,travel,Delta Airlines
+1041,1/11/2025,877.68,travel,Walmart
+1042,1/30/2025,427.21,travel,Walmart
+1042,5/23/2025,893.74,shopping,CVS
+1042,5/6/2025,819.27,groceries,Walmart
+1042,4/22/2025,348.4,entertainment,Apple Store
+1042,3/29/2025,266.83,travel,Amazon
+1042,12/19/2024,385.9,entertainment,Apple Store
+1042,4/29/2025,594.39,shopping,Walmart
+1042,2/20/2025,275.38,travel,Apple Store
+1042,12/30/2024,627.91,healthcare,Netflix
+1042,2/13/2025,415.32,groceries,CVS
+1042,4/12/2025,556.53,entertainment,CVS
+1042,4/24/2025,441.77,entertainment,Netflix
+1042,12/15/2024,301.52,travel,CVS
+1042,2/24/2025,948.97,travel,Apple Store
+1042,12/18/2024,765.97,groceries,Delta Airlines
+1042,2/8/2025,148.71,bills,CVS
+1042,4/2/2025,869.78,entertainment,Amazon
+1043,6/3/2025,985.51,healthcare,Walmart
+1043,4/27/2025,476.35,bills,Delta Airlines
+1043,12/16/2024,190.29,bills,CVS
+1043,12/30/2024,489.93,travel,Amazon
+1043,5/26/2025,517.33,travel,Amazon
+1043,3/5/2025,744.27,shopping,Amazon
+1043,3/22/2025,701.86,travel,CVS
+1043,1/24/2025,408.52,shopping,Walmart
+1043,5/21/2025,225.84,shopping,Apple Store
+1043,3/15/2025,648.6,healthcare,Walmart
+1043,4/12/2025,427.49,shopping,Apple Store
+1043,5/4/2025,140.95,bills,Apple Store
+1044,2/15/2025,179.96,travel,Walmart
+1044,5/17/2025,279.58,bills,Delta Airlines
+1044,1/8/2025,28.21,travel,Apple Store
+1044,12/22/2024,915.16,bills,Delta Airlines
+1044,12/21/2024,126.57,bills,Amazon
+1044,3/26/2025,580.75,groceries,Netflix
+1044,5/31/2025,281.31,shopping,CVS
+1044,4/16/2025,558.64,groceries,CVS
+1044,1/5/2025,654.91,bills,Walmart
+1044,4/20/2025,831.44,healthcare,Delta Airlines
+1044,6/3/2025,214.36,entertainment,Walmart
+1044,12/16/2024,20.89,groceries,CVS
+1044,2/28/2025,145.52,groceries,Netflix
+1044,5/22/2025,901.02,healthcare,CVS
+1044,5/24/2025,875.15,entertainment,Delta Airlines
+1044,2/3/2025,601.44,bills,CVS
+1044,4/24/2025,604.51,travel,CVS
+1045,5/16/2025,499.33,shopping,Delta Airlines
+1045,12/16/2024,577.56,groceries,Netflix
+1045,5/26/2025,839.73,shopping,Delta Airlines
+1045,2/9/2025,410.34,groceries,Delta Airlines
+1045,2/14/2025,773.2,healthcare,Apple Store
+1045,1/15/2025,427.82,groceries,CVS
+1045,2/27/2025,360.33,groceries,Amazon
+1045,5/2/2025,959.04,shopping,Netflix
+1045,1/18/2025,192.53,entertainment,Netflix
+1045,4/30/2025,99.43,healthcare,Netflix
+1045,3/22/2025,773.28,entertainment,Netflix
+1045,4/9/2025,77.57,travel,CVS
+1045,5/25/2025,838.71,bills,Delta Airlines
+1046,2/23/2025,362.12,entertainment,CVS
+1046,2/11/2025,721.86,shopping,Delta Airlines
+1046,2/4/2025,304.15,bills,Apple Store
+1046,3/3/2025,570.74,healthcare,Netflix
+1046,3/24/2025,481.29,shopping,Amazon
+1046,3/9/2025,667.03,travel,Delta Airlines
+1046,4/17/2025,937.46,entertainment,CVS
+1046,5/22/2025,735.25,bills,Netflix
+1046,12/30/2024,222.79,healthcare,Apple Store
+1046,2/19/2025,40.87,entertainment,Netflix
+1046,12/24/2024,269.64,entertainment,Amazon
+1046,5/9/2025,599.13,shopping,CVS
+1046,4/10/2025,60.91,bills,Amazon
+1046,12/13/2024,501.4,entertainment,Walmart
+1046,2/12/2025,600.87,healthcare,Delta Airlines
+1047,12/26/2024,627.1,travel,Netflix
+1047,1/17/2025,479.49,travel,Delta Airlines
+1047,4/3/2025,350.94,healthcare,Amazon
+1047,12/23/2024,358.02,shopping,Apple Store
+1047,4/9/2025,418.67,entertainment,Walmart
+1047,2/9/2025,707.88,entertainment,Walmart
+1048,3/28/2025,440.48,groceries,CVS
+1048,2/28/2025,253.94,healthcare,Walmart
+1048,12/26/2024,820.91,shopping,Apple Store
+1048,1/9/2025,801.42,healthcare,Amazon
+1048,5/20/2025,697.75,shopping,CVS
+1048,4/30/2025,279.42,entertainment,Delta Airlines
+1048,1/30/2025,594.33,groceries,Amazon
+1048,1/3/2025,367.36,travel,Apple Store
+1048,5/8/2025,100.67,shopping,Apple Store
+1048,12/18/2024,918.14,bills,Apple Store
+1048,2/25/2025,145.45,travel,CVS
+1048,4/24/2025,950.73,groceries,Walmart
+1049,1/5/2025,526.09,travel,Apple Store
+1049,2/15/2025,95.84,bills,Netflix
+1049,1/23/2025,958.59,entertainment,Delta Airlines
+1049,2/15/2025,760.81,travel,Netflix
+1049,4/26/2025,642.56,groceries,Walmart
+1049,4/27/2025,761.45,shopping,Apple Store
+1049,12/15/2024,726.86,shopping,Netflix
+1049,2/24/2025,640.86,healthcare,Netflix
+1049,5/25/2025,980.77,healthcare,Walmart
+1049,4/13/2025,904.33,entertainment,Delta Airlines
+1049,12/24/2024,650.2,shopping,Netflix
+1050,4/20/2025,987.79,entertainment,Apple Store
+1050,1/2/2025,944.62,travel,Apple Store
+1050,3/17/2025,49.03,shopping,Netflix
+1050,2/13/2025,708.52,groceries,Netflix
+1050,1/8/2025,926,entertainment,Walmart
+1050,6/5/2025,188.77,shopping,Delta Airlines
+1050,5/14/2025,572.27,bills,Walmart
+1050,1/26/2025,916.33,travel,Amazon
+1050,4/27/2025,43.61,entertainment,Walmart
+1050,4/17/2025,700.45,bills,Walmart
+1050,12/31/2024,304.38,entertainment,CVS
+1050,12/20/2024,925.15,groceries,CVS
+1050,1/19/2025,971.35,bills,Netflix
+1050,3/26/2025,944.82,travel,Delta Airlines
+1050,3/23/2025,479.47,travel,CVS
+1051,3/2/2025,64.33,shopping,CVS
+1051,12/10/2024,460.59,travel,Netflix
+1051,4/12/2025,527.21,groceries,Amazon
+1051,3/30/2025,648.1,shopping,CVS
+1051,5/15/2025,653.67,shopping,Delta Airlines
+1051,5/8/2025,371.05,healthcare,CVS
+1051,6/8/2025,565.07,entertainment,Netflix
+1051,2/13/2025,486.25,shopping,Netflix
+1051,4/18/2025,886.15,shopping,Walmart
+1051,1/20/2025,534.96,healthcare,Apple Store
+1051,1/8/2025,446.62,healthcare,CVS
+1051,1/13/2025,410.44,shopping,CVS
+1051,1/16/2025,576.7,travel,Amazon
+1051,4/15/2025,805.94,healthcare,Walmart
+1051,4/26/2025,543.02,shopping,Netflix
+1051,1/29/2025,665.04,groceries,Netflix
+1051,12/15/2024,740.48,travel,Walmart
+1051,5/24/2025,524.97,groceries,Amazon
+1052,1/12/2025,619.7,groceries,Netflix
+1052,12/22/2024,240.63,healthcare,Delta Airlines
+1052,12/17/2024,34.16,travel,Apple Store
+1052,1/13/2025,871.4,bills,Apple Store
+1052,4/19/2025,31.06,groceries,Amazon
+1052,12/27/2024,875.95,bills,Amazon
+1052,6/2/2025,533.65,entertainment,Amazon
+1052,4/4/2025,939.68,healthcare,Netflix
+1052,3/28/2025,800.8,groceries,Netflix
+1052,1/28/2025,997.95,healthcare,CVS
+1052,6/4/2025,357.2,travel,CVS
+1052,2/13/2025,769.52,shopping,Apple Store
+1052,2/23/2025,407.91,travel,CVS
+1052,5/6/2025,485.08,shopping,Netflix
+1052,1/12/2025,631.23,entertainment,Netflix
+1052,4/8/2025,874.94,shopping,Walmart
+1052,3/24/2025,984.24,entertainment,Walmart
+1053,4/13/2025,100.78,healthcare,Walmart
+1053,3/16/2025,343.01,healthcare,Delta Airlines
+1053,12/24/2024,527.29,entertainment,Walmart
+1053,1/7/2025,734.95,travel,Netflix
+1053,3/22/2025,13.31,bills,Netflix
+1053,3/19/2025,472.64,healthcare,CVS
+1053,4/11/2025,304.03,shopping,Walmart
+1053,3/2/2025,854.29,groceries,Apple Store
+1053,3/19/2025,718.4,bills,Apple Store
+1053,5/20/2025,593.22,travel,Walmart
+1053,3/10/2025,284.49,groceries,CVS
+1053,2/18/2025,911.24,bills,Delta Airlines
+1053,6/4/2025,54.65,groceries,Delta Airlines
+1053,3/21/2025,118.37,entertainment,Apple Store
+1054,5/30/2025,682.85,bills,Amazon
+1054,5/18/2025,226.07,entertainment,Delta Airlines
+1054,2/10/2025,950.46,healthcare,Apple Store
+1054,2/24/2025,788.48,entertainment,Apple Store
+1054,3/1/2025,98.52,shopping,Delta Airlines
+1054,12/22/2024,423.4,shopping,CVS
+1054,4/29/2025,880.33,entertainment,Walmart
+1054,3/6/2025,945.28,shopping,Walmart
+1054,5/29/2025,472.73,healthcare,Amazon
+1054,12/31/2024,617.28,healthcare,CVS
+1054,3/20/2025,175.36,healthcare,Walmart
+1054,2/1/2025,991.26,groceries,CVS
+1054,5/17/2025,239.35,shopping,Apple Store
+1055,1/11/2025,839.45,shopping,Delta Airlines
+1055,4/22/2025,238.26,bills,Netflix
+1055,3/14/2025,832.34,travel,Netflix
+1055,5/26/2025,129.14,bills,Delta Airlines
+1055,2/22/2025,56.48,healthcare,Walmart
+1055,12/26/2024,390.25,shopping,Delta Airlines
+1055,12/14/2024,46.36,healthcare,Delta Airlines
+1055,2/16/2025,957.7,bills,Apple Store
+1056,1/9/2025,356.62,shopping,Walmart
+1056,3/1/2025,67.26,bills,Delta Airlines
+1056,1/18/2025,969.41,travel,Delta Airlines
+1056,1/5/2025,884.95,shopping,Delta Airlines
+1056,12/27/2024,928.47,shopping,Amazon
+1056,12/12/2024,994.96,bills,Walmart
+1056,5/1/2025,182.16,entertainment,Walmart
+1056,2/22/2025,402.28,healthcare,CVS
+1056,12/14/2024,760.66,entertainment,Apple Store
+1056,2/11/2025,699.06,bills,Delta Airlines
+1056,12/31/2024,162.36,healthcare,Amazon
+1056,1/26/2025,817.67,groceries,Apple Store
+1057,2/22/2025,626.71,shopping,CVS
+1057,4/26/2025,750.39,bills,Apple Store
+1057,6/8/2025,44.52,healthcare,Netflix
+1057,4/24/2025,895.97,travel,Apple Store
+1057,2/19/2025,861.53,healthcare,Netflix
+1057,5/22/2025,462.86,travel,Apple Store
+1057,5/16/2025,397.26,healthcare,Delta Airlines
+1057,2/4/2025,280.23,shopping,Delta Airlines
+1057,1/16/2025,481.91,shopping,Amazon
+1057,12/16/2024,53.93,entertainment,Amazon
+1058,2/12/2025,863.51,bills,Amazon
+1058,12/16/2024,811.42,entertainment,CVS
+1058,3/23/2025,658.69,bills,Netflix
+1058,2/21/2025,555.35,travel,Amazon
+1058,3/30/2025,96.12,bills,Walmart
+1058,3/22/2025,414.37,travel,Apple Store
+1059,2/13/2025,15.03,shopping,Walmart
+1059,4/11/2025,698.76,groceries,CVS
+1059,5/30/2025,58.3,shopping,CVS
+1059,6/4/2025,537.28,bills,Delta Airlines
+1059,12/26/2024,962.5,entertainment,Delta Airlines
+1059,3/30/2025,118.37,travel,Delta Airlines
+1059,1/28/2025,895.54,entertainment,CVS
+1059,2/15/2025,991.56,bills,CVS
+1059,5/14/2025,70.9,groceries,Amazon
+1059,12/24/2024,884.08,groceries,Delta Airlines
+1059,5/21/2025,520.92,entertainment,Delta Airlines
+1059,12/24/2024,907.45,travel,Amazon
+1059,1/6/2025,575.61,entertainment,Apple Store
+1059,2/27/2025,665.49,bills,Amazon
+1059,4/7/2025,548.34,shopping,Amazon
+1059,3/31/2025,865.85,groceries,Delta Airlines
+1059,4/6/2025,736.57,groceries,Apple Store
+1059,3/17/2025,526.05,entertainment,Netflix
+1059,1/31/2025,869.48,travel,Apple Store
+1060,5/14/2025,852.08,bills,Amazon
+1060,3/25/2025,868.62,healthcare,Amazon
+1060,2/18/2025,711.28,travel,Delta Airlines
+1060,3/14/2025,838.64,shopping,CVS
+1060,3/28/2025,700.5,travel,Delta Airlines
+1060,5/7/2025,683.34,travel,Delta Airlines
+1060,5/11/2025,622.43,travel,Walmart
+1060,3/18/2025,755.19,entertainment,Walmart
+1060,12/11/2024,167.02,shopping,CVS
+1060,4/30/2025,882.06,bills,Netflix
+1060,6/8/2025,873.13,entertainment,Walmart
+1060,5/19/2025,38.95,travel,Amazon
+1060,12/20/2024,827.56,entertainment,Amazon
+1060,3/10/2025,137.58,travel,Amazon
+1060,2/12/2025,341.77,groceries,Apple Store
+1060,1/28/2025,746.07,travel,Walmart
+1061,3/6/2025,11.11,groceries,Netflix
+1061,5/25/2025,560.62,bills,Apple Store
+1061,3/19/2025,759.07,entertainment,Netflix
+1061,3/25/2025,266.1,entertainment,CVS
+1061,3/15/2025,201.2,entertainment,Netflix
+1061,4/25/2025,93.26,groceries,Netflix
+1061,12/31/2024,333.17,shopping,Amazon
+1061,4/26/2025,564.25,entertainment,Apple Store
+1061,5/19/2025,124.69,groceries,CVS
+1061,5/29/2025,382.93,healthcare,CVS
+1061,1/31/2025,18.98,groceries,Netflix
+1061,12/14/2024,820.49,groceries,CVS
+1061,2/20/2025,137.16,groceries,Apple Store
+1061,3/9/2025,290.51,bills,Netflix
+1061,1/11/2025,28.24,shopping,Amazon
+1061,4/26/2025,437.92,bills,Apple Store
+1061,4/19/2025,841.72,entertainment,Delta Airlines
+1061,6/4/2025,398.23,shopping,Netflix
+1061,5/27/2025,187.7,entertainment,Apple Store
+1062,2/28/2025,111.48,groceries,CVS
+1062,1/28/2025,937.86,entertainment,Walmart
+1062,4/29/2025,691.01,healthcare,CVS
+1062,4/20/2025,77.16,bills,Walmart
+1062,4/28/2025,307.95,healthcare,CVS
+1062,3/13/2025,711.09,healthcare,Netflix
+1062,1/20/2025,76.68,healthcare,Netflix
+1062,12/14/2024,586.35,shopping,Amazon
+1062,5/22/2025,352.42,entertainment,Walmart
+1063,3/7/2025,83.95,healthcare,Apple Store
+1063,5/22/2025,853.89,entertainment,Amazon
+1063,5/9/2025,990.25,bills,Netflix
+1063,1/5/2025,679.29,groceries,Walmart
+1063,5/27/2025,451.5,entertainment,Netflix
+1063,12/19/2024,651.1,healthcare,Delta Airlines
+1063,4/26/2025,598.45,bills,Walmart
+1063,4/24/2025,389.78,travel,Delta Airlines
+1063,6/3/2025,74.97,entertainment,Amazon
+1063,12/17/2024,823.3,healthcare,Amazon
+1063,3/6/2025,378.12,shopping,CVS
+1063,2/13/2025,820.6,bills,Delta Airlines
+1063,5/1/2025,259.98,healthcare,Delta Airlines
+1063,5/1/2025,11.02,bills,Netflix
+1064,1/14/2025,280.89,travel,CVS
+1064,5/5/2025,997.15,groceries,Amazon
+1064,2/7/2025,431.92,shopping,Walmart
+1064,4/28/2025,456.87,healthcare,Delta Airlines
+1064,6/10/2025,171.99,entertainment,Delta Airlines
+1064,4/6/2025,796.86,shopping,Walmart
+1065,2/5/2025,305.39,bills,CVS
+1065,1/6/2025,841.55,groceries,Apple Store
+1065,5/3/2025,775.09,bills,CVS
+1065,4/1/2025,237.75,entertainment,Netflix
+1065,4/12/2025,140.02,shopping,Delta Airlines
+1065,3/4/2025,869.37,entertainment,Amazon
+1065,5/14/2025,963.6,entertainment,Amazon
+1065,2/22/2025,40.99,bills,Delta Airlines
+1065,3/19/2025,733.96,bills,CVS
+1065,4/9/2025,910.43,bills,Amazon
+1065,5/5/2025,858.79,groceries,Delta Airlines
+1065,3/30/2025,964.88,groceries,Delta Airlines
+1065,1/29/2025,762.49,shopping,Apple Store
+1065,6/8/2025,447.88,groceries,Amazon
+1065,6/4/2025,318.83,groceries,Walmart
+1065,5/27/2025,327.54,groceries,Apple Store
+1065,12/29/2024,727.18,groceries,Walmart
+1066,6/7/2025,220.97,entertainment,Delta Airlines
+1066,4/7/2025,40.82,travel,Delta Airlines
+1066,2/3/2025,655.15,groceries,CVS
+1066,12/24/2024,374.84,healthcare,Netflix
+1066,4/15/2025,865.71,shopping,Netflix
+1066,3/22/2025,478.48,groceries,Delta Airlines
+1067,2/9/2025,167.65,travel,Netflix
+1067,3/24/2025,211.66,bills,Apple Store
+1067,5/17/2025,100.25,shopping,Walmart
+1067,5/28/2025,162.12,entertainment,CVS
+1067,4/1/2025,459.16,entertainment,Apple Store
+1067,3/3/2025,535.05,healthcare,Walmart
+1067,1/13/2025,27.68,healthcare,CVS
+1067,3/31/2025,798.83,shopping,Netflix
+1067,3/10/2025,301.23,shopping,CVS
+1067,3/26/2025,912.72,healthcare,CVS
+1067,12/15/2024,967.84,bills,Apple Store
+1067,5/15/2025,193.6,healthcare,CVS
+1068,12/22/2024,486.71,shopping,Apple Store
+1068,3/11/2025,126.14,entertainment,Netflix
+1068,4/10/2025,133.93,healthcare,Apple Store
+1068,1/9/2025,688.71,entertainment,Amazon
+1068,6/5/2025,436,entertainment,Walmart
+1068,4/20/2025,208.52,travel,CVS
+1068,3/17/2025,496.68,healthcare,CVS
+1068,1/8/2025,73.57,entertainment,CVS
+1068,5/2/2025,586.15,travel,Walmart
+1068,3/30/2025,276.3,shopping,Amazon
+1068,12/19/2024,799.58,shopping,Walmart
+1068,3/1/2025,317.26,travel,CVS
+1068,4/29/2025,460.67,bills,CVS
+1068,12/20/2024,21.5,shopping,Delta Airlines
+1068,5/1/2025,81.72,travel,Amazon
+1068,4/16/2025,398.57,healthcare,Walmart
+1068,1/14/2025,485.14,bills,Delta Airlines
+1068,2/28/2025,604.02,shopping,Delta Airlines
+1068,4/18/2025,298.75,travel,Apple Store
+1069,5/25/2025,759.49,travel,Amazon
+1069,1/25/2025,953.12,groceries,Apple Store
+1069,2/25/2025,908.74,groceries,Walmart
+1069,2/12/2025,727.04,bills,Amazon
+1069,3/21/2025,751.67,healthcare,Netflix
+1069,5/31/2025,154.46,groceries,Amazon
+1069,2/16/2025,111.76,shopping,Apple Store
+1069,4/19/2025,575.2,bills,CVS
+1069,5/4/2025,28.18,entertainment,Netflix
+1069,3/20/2025,487.53,bills,Walmart
+1069,1/12/2025,218.25,travel,Amazon
+1069,12/23/2024,352.56,entertainment,Delta Airlines
+1069,2/4/2025,778.05,bills,Walmart
+1069,5/14/2025,941.83,healthcare,CVS
+1069,2/15/2025,81.69,travel,Apple Store
+1069,3/26/2025,538.9,groceries,Apple Store
+1069,1/9/2025,883.71,healthcare,Delta Airlines
+1070,12/24/2024,42.87,healthcare,Apple Store
+1070,3/30/2025,87.79,bills,Delta Airlines
+1070,4/20/2025,402.95,healthcare,Netflix
+1070,12/17/2024,141.39,entertainment,Walmart
+1070,4/18/2025,571.87,healthcare,Walmart
+1070,3/27/2025,692.57,bills,Delta Airlines
+1070,5/2/2025,802.58,shopping,Amazon
+1070,2/20/2025,208.15,travel,Delta Airlines
+1070,5/26/2025,175.81,entertainment,Walmart
+1070,4/26/2025,113.52,bills,Netflix
+1070,5/9/2025,640.07,groceries,CVS
+1070,1/17/2025,709.41,bills,Apple Store
+1070,4/25/2025,41.27,shopping,Walmart
+1070,4/3/2025,936.85,healthcare,CVS
+1070,4/2/2025,61.45,groceries,Amazon
+1070,1/20/2025,545.88,travel,Amazon
+1070,5/2/2025,711.97,healthcare,Walmart
+1070,1/30/2025,872.26,travel,Walmart
+1071,3/28/2025,629.05,entertainment,CVS
+1071,5/10/2025,785.59,shopping,Walmart
+1071,6/10/2025,616.14,bills,Walmart
+1071,3/25/2025,489.55,healthcare,Amazon
+1071,12/31/2024,664.21,groceries,Amazon
+1071,2/25/2025,557.47,shopping,Netflix
+1072,12/16/2024,819.12,shopping,Apple Store
+1072,12/20/2024,457.8,groceries,Amazon
+1072,5/1/2025,647.14,travel,Netflix
+1072,5/21/2025,531.14,entertainment,Apple Store
+1072,4/1/2025,734.27,entertainment,CVS
+1072,1/2/2025,90.81,shopping,Walmart
+1072,5/16/2025,69.75,shopping,CVS
+1072,4/27/2025,254.63,groceries,Walmart
+1072,12/30/2024,167.95,entertainment,Amazon
+1072,2/18/2025,873.07,travel,Apple Store
+1073,4/26/2025,335.73,shopping,Delta Airlines
+1073,4/18/2025,475.48,bills,Apple Store
+1073,1/10/2025,746.84,travel,Walmart
+1073,2/9/2025,873.11,travel,Netflix
+1073,4/20/2025,439.32,healthcare,Netflix
+1073,2/28/2025,53.23,groceries,Amazon
+1073,2/24/2025,170.06,shopping,Netflix
+1073,3/23/2025,30.65,travel,Delta Airlines
+1073,3/12/2025,656.73,healthcare,CVS
+1073,2/7/2025,338.99,groceries,Netflix
+1073,1/19/2025,547.05,entertainment,Delta Airlines
+1073,4/12/2025,498.34,shopping,Delta Airlines
+1073,4/2/2025,90.71,healthcare,Delta Airlines
+1073,4/29/2025,409.23,entertainment,Walmart
+1074,5/26/2025,81.48,groceries,CVS
+1074,3/31/2025,40.35,entertainment,Delta Airlines
+1074,5/12/2025,265.11,shopping,CVS
+1074,2/22/2025,468,groceries,Apple Store
+1074,4/15/2025,869.59,groceries,Amazon
+1074,4/12/2025,729.9,healthcare,CVS
+1074,4/22/2025,745.28,entertainment,Walmart
+1074,5/25/2025,431.24,shopping,Apple Store
+1074,5/8/2025,352.48,groceries,Netflix
+1074,4/4/2025,377.33,bills,Delta Airlines
+1074,12/16/2024,987.77,healthcare,CVS
+1074,6/10/2025,49.71,bills,Amazon
+1074,4/22/2025,868.36,groceries,Walmart
+1074,5/20/2025,582.89,travel,Netflix
+1074,1/16/2025,444.23,entertainment,Amazon
+1074,1/21/2025,728.01,healthcare,Apple Store
+1074,3/27/2025,491.8,bills,Netflix
+1075,12/20/2024,601.75,entertainment,Amazon
+1075,1/11/2025,795.03,bills,CVS
+1075,6/9/2025,658.46,healthcare,Netflix
+1075,3/1/2025,992.21,entertainment,Netflix
+1075,12/30/2024,291.02,travel,Walmart
+1075,2/3/2025,365.56,travel,Apple Store
+1076,5/13/2025,626.74,bills,Walmart
+1076,3/25/2025,635.24,groceries,Amazon
+1076,3/12/2025,735.78,bills,Delta Airlines
+1076,1/18/2025,140.25,bills,Walmart
+1076,5/30/2025,718.67,travel,Amazon
+1076,1/8/2025,909.94,healthcare,Walmart
+1076,3/29/2025,187.89,entertainment,CVS
+1077,12/11/2024,379.12,groceries,Amazon
+1077,4/7/2025,517.49,entertainment,Amazon
+1077,1/23/2025,418.9,bills,Walmart
+1077,2/23/2025,78.44,entertainment,Apple Store
+1077,2/15/2025,442.79,shopping,Delta Airlines
+1077,12/19/2024,106.42,shopping,Delta Airlines
+1077,3/12/2025,410.97,entertainment,Amazon
+1077,3/23/2025,596.99,healthcare,Walmart
+1077,3/21/2025,583.62,entertainment,Netflix
+1077,4/16/2025,666,healthcare,Walmart
+1077,2/22/2025,104.31,travel,Amazon
+1077,1/20/2025,655.6,healthcare,Delta Airlines
+1077,3/16/2025,319.03,bills,CVS
+1077,3/31/2025,405.06,bills,Walmart
+1077,5/3/2025,859.41,bills,CVS
+1077,4/30/2025,18.94,travel,Walmart
+1078,2/4/2025,775.74,bills,Walmart
+1078,1/27/2025,139.56,healthcare,Amazon
+1078,4/6/2025,970.12,healthcare,Walmart
+1078,2/28/2025,459.25,shopping,Delta Airlines
+1078,3/4/2025,243.69,travel,Delta Airlines
+1079,12/20/2024,447.6,bills,Delta Airlines
+1079,6/2/2025,337.58,shopping,CVS
+1079,12/22/2024,454.29,travel,Netflix
+1079,5/15/2025,672.7,bills,Walmart
+1079,1/4/2025,154.3,bills,CVS
+1079,2/7/2025,454.94,travel,Netflix
+1079,5/19/2025,592.01,shopping,Apple Store
+1080,1/4/2025,709.71,groceries,CVS
+1080,3/17/2025,175.37,travel,Walmart
+1080,1/9/2025,175.94,groceries,Delta Airlines
+1080,4/11/2025,46.3,groceries,CVS
+1080,3/29/2025,739.04,healthcare,Netflix
+1080,4/18/2025,667.17,entertainment,Delta Airlines
+1080,3/2/2025,479.88,healthcare,Delta Airlines
+1080,2/7/2025,845.73,shopping,Delta Airlines
+1080,4/22/2025,807.61,shopping,Walmart
+1080,3/6/2025,589.5,shopping,Walmart
+1080,4/4/2025,869.59,bills,Apple Store
+1080,2/4/2025,213.78,healthcare,Delta Airlines
+1080,1/26/2025,120.8,travel,Walmart
+1080,6/7/2025,277.05,entertainment,Amazon
+1080,12/11/2024,66.52,entertainment,Amazon
+1080,12/11/2024,535.86,shopping,Delta Airlines
+1081,3/12/2025,61.18,healthcare,Walmart
+1081,2/15/2025,643.6,travel,Apple Store
+1081,4/14/2025,232.45,healthcare,Netflix
+1081,2/25/2025,188.21,healthcare,Amazon
+1081,3/12/2025,97.67,groceries,Netflix
+1081,12/25/2024,112.28,shopping,Walmart
+1081,5/1/2025,588.82,bills,Amazon
+1081,4/12/2025,691.33,groceries,Walmart
+1082,3/6/2025,986.76,bills,Netflix
+1082,2/8/2025,965.47,bills,CVS
+1082,12/13/2024,14.89,travel,Amazon
+1082,2/23/2025,952.29,healthcare,Amazon
+1082,1/4/2025,642.73,travel,Amazon
+1082,4/26/2025,869.24,shopping,Amazon
+1082,4/7/2025,460.19,travel,Netflix
+1082,12/21/2024,520.44,healthcare,Netflix
+1083,12/25/2024,349.23,travel,Netflix
+1083,5/1/2025,536.92,groceries,CVS
+1083,1/13/2025,134.48,shopping,CVS
+1083,12/12/2024,141.39,entertainment,Apple Store
+1083,1/21/2025,152.11,shopping,Amazon
+1083,6/3/2025,940.42,groceries,Apple Store
+1084,12/17/2024,676.7,travel,Apple Store
+1084,1/28/2025,970.21,healthcare,Netflix
+1084,1/29/2025,102.96,groceries,Netflix
+1084,2/15/2025,675.88,entertainment,Apple Store
+1084,2/24/2025,449.31,travel,Netflix
+1084,3/3/2025,869.46,healthcare,Delta Airlines
+1084,12/19/2024,185.38,travel,Walmart
+1084,5/29/2025,695.7,groceries,Walmart
+1084,6/7/2025,839.73,entertainment,Apple Store
+1084,2/2/2025,945.17,groceries,Netflix
+1084,12/12/2024,686.42,groceries,Netflix
+1084,2/23/2025,502.2,healthcare,Amazon
+1084,1/13/2025,621.67,entertainment,Apple Store
+1084,4/14/2025,870.22,entertainment,Delta Airlines
+1084,2/21/2025,574.9,shopping,Apple Store
+1084,1/3/2025,40.08,entertainment,Netflix
+1085,12/22/2024,797.56,shopping,Apple Store
+1085,5/14/2025,919.49,entertainment,Walmart
+1085,1/28/2025,604.6,bills,Apple Store
+1085,1/7/2025,941.47,shopping,CVS
+1085,4/7/2025,828.57,healthcare,Delta Airlines
+1085,12/31/2024,670.3,entertainment,Amazon
+1085,4/18/2025,581.41,entertainment,Netflix
+1085,4/24/2025,355.09,shopping,Walmart
+1085,12/27/2024,167.69,travel,Amazon
+1085,4/3/2025,608.9,entertainment,Amazon
+1085,2/2/2025,324.93,bills,Delta Airlines
+1085,5/3/2025,867.77,healthcare,Netflix
+1086,1/13/2025,872.05,healthcare,Delta Airlines
+1086,1/10/2025,784.56,bills,Apple Store
+1086,5/1/2025,571.35,shopping,Walmart
+1086,1/1/2025,741.06,travel,Apple Store
+1086,3/22/2025,879.73,shopping,Walmart
+1086,12/28/2024,410.1,travel,Amazon
+1086,5/17/2025,333.76,groceries,Apple Store
+1086,5/15/2025,670.92,shopping,Apple Store
+1086,2/1/2025,809.77,bills,Apple Store
+1086,5/31/2025,764.66,bills,Walmart
+1086,5/1/2025,799.84,healthcare,Amazon
+1086,3/30/2025,441.23,shopping,Amazon
+1086,12/20/2024,819.66,shopping,Netflix
+1087,12/25/2024,303.9,groceries,CVS
+1087,4/13/2025,652.58,healthcare,Netflix
+1087,2/15/2025,335.1,bills,Netflix
+1087,1/5/2025,633.91,bills,Amazon
+1087,4/19/2025,613.73,bills,Delta Airlines
+1087,12/16/2024,567.8,shopping,Amazon
+1087,12/22/2024,386.62,entertainment,CVS
+1087,4/24/2025,553.01,shopping,Amazon
+1087,4/19/2025,600.52,groceries,Delta Airlines
+1087,5/17/2025,550.23,shopping,Amazon
+1087,1/8/2025,449.98,entertainment,Netflix
+1087,5/21/2025,24.52,shopping,Apple Store
+1088,2/8/2025,607.41,travel,Delta Airlines
+1088,1/20/2025,671.53,groceries,Apple Store
+1088,1/22/2025,623.3,entertainment,Walmart
+1088,4/20/2025,468.86,bills,CVS
+1088,12/25/2024,385.99,groceries,CVS
+1088,3/2/2025,864.7,entertainment,CVS
+1088,1/5/2025,523.89,healthcare,Delta Airlines
+1088,4/19/2025,484.39,healthcare,Delta Airlines
+1088,3/1/2025,35.39,travel,Amazon
+1088,3/17/2025,347.84,groceries,CVS
+1088,5/27/2025,386.39,shopping,CVS
+1088,4/29/2025,404.83,travel,CVS
+1088,1/9/2025,584.37,healthcare,Delta Airlines
+1088,3/3/2025,538.27,entertainment,Apple Store
+1088,5/19/2025,611.83,groceries,Netflix
+1089,4/26/2025,814.86,groceries,Amazon
+1089,5/16/2025,720.94,travel,Netflix
+1089,1/6/2025,955.97,healthcare,Netflix
+1089,5/1/2025,28.05,shopping,Walmart
+1089,1/3/2025,203.82,shopping,Amazon
+1089,2/10/2025,17.49,groceries,Apple Store
+1089,5/29/2025,651,bills,CVS
+1089,5/9/2025,899.05,healthcare,Delta Airlines
+1089,2/20/2025,251.05,groceries,Apple Store
+1089,12/11/2024,927.76,groceries,CVS
+1089,5/22/2025,69.66,bills,Amazon
+1090,2/24/2025,484.39,bills,CVS
+1090,3/8/2025,202.61,bills,CVS
+1090,1/3/2025,174.67,healthcare,Netflix
+1090,2/23/2025,621.18,groceries,Amazon
+1090,2/28/2025,527.85,entertainment,Walmart
+1090,3/5/2025,673.4,travel,Netflix
+1090,12/17/2024,930.31,travel,Apple Store
+1090,5/5/2025,536.94,groceries,Amazon
+1090,2/15/2025,585.12,groceries,Amazon
+1091,1/1/2025,614.23,travel,Delta Airlines
+1091,4/9/2025,718.99,entertainment,Amazon
+1091,4/2/2025,279.9,travel,Walmart
+1091,1/9/2025,419.41,bills,Apple Store
+1091,12/18/2024,130.67,travel,CVS
+1091,1/22/2025,189.34,travel,Delta Airlines
+1091,3/31/2025,684.31,entertainment,Walmart
+1091,2/14/2025,189.62,groceries,Apple Store
+1091,3/17/2025,529.91,travel,Delta Airlines
+1091,6/6/2025,711.96,travel,Apple Store
+1091,3/20/2025,115.81,shopping,Apple Store
+1091,1/22/2025,571.64,healthcare,Delta Airlines
+1091,1/11/2025,264,healthcare,Apple Store
+1091,2/11/2025,963.3,shopping,Amazon
+1092,5/22/2025,96.17,groceries,Amazon
+1092,5/2/2025,817.59,entertainment,Apple Store
+1092,4/16/2025,379.77,travel,CVS
+1092,3/19/2025,531.23,bills,Amazon
+1092,1/14/2025,121.18,bills,Apple Store
+1092,3/21/2025,12.56,shopping,Netflix
+1092,3/6/2025,641.61,travel,Delta Airlines
+1092,1/16/2025,520.02,travel,Apple Store
+1093,3/6/2025,235.8,shopping,Amazon
+1093,3/5/2025,219.92,healthcare,CVS
+1093,5/10/2025,614.87,bills,CVS
+1093,5/29/2025,416.92,shopping,Apple Store
+1093,2/21/2025,841.46,travel,CVS
+1093,1/17/2025,901.02,groceries,Delta Airlines
+1093,2/15/2025,359.89,groceries,Netflix
+1093,5/5/2025,244.5,entertainment,Amazon
+1093,1/16/2025,782.72,travel,Delta Airlines
+1093,12/16/2024,282.06,groceries,Apple Store
+1093,1/17/2025,824.39,bills,Apple Store
+1093,4/24/2025,429.5,groceries,Amazon
+1093,2/8/2025,670.87,groceries,Apple Store
+1093,2/28/2025,104.58,healthcare,Netflix
+1093,1/8/2025,627.62,groceries,Amazon
+1093,5/13/2025,457.25,entertainment,Walmart
+1094,3/23/2025,161.45,shopping,Delta Airlines
+1094,3/28/2025,242.88,entertainment,Delta Airlines
+1094,1/29/2025,870.57,healthcare,Delta Airlines
+1094,2/9/2025,478.16,travel,Apple Store
+1094,5/19/2025,540,bills,Amazon
+1094,2/12/2025,186.66,travel,Apple Store
+1095,2/24/2025,645.55,entertainment,Walmart
+1095,6/2/2025,611.02,groceries,Netflix
+1095,6/1/2025,551.23,healthcare,CVS
+1095,5/27/2025,239.63,groceries,Netflix
+1095,2/23/2025,397,groceries,Walmart
+1095,1/1/2025,598.53,healthcare,CVS
+1095,5/26/2025,501.8,bills,CVS
+1095,2/6/2025,987.91,bills,Apple Store
+1095,5/3/2025,145.08,entertainment,Amazon
+1096,6/1/2025,679.08,bills,Netflix
+1096,5/20/2025,448.29,entertainment,Netflix
+1096,3/5/2025,451.33,entertainment,CVS
+1096,1/17/2025,727.27,healthcare,Amazon
+1096,5/9/2025,25.66,shopping,CVS
+1096,3/30/2025,347.68,bills,Walmart
+1096,1/8/2025,820.52,entertainment,Apple Store
+1096,4/21/2025,607.19,bills,Walmart
+1096,2/4/2025,343.85,healthcare,CVS
+1097,3/26/2025,774.9,healthcare,Amazon
+1097,1/12/2025,272.25,shopping,Apple Store
+1097,12/11/2024,648.84,entertainment,CVS
+1097,4/17/2025,599.79,entertainment,Delta Airlines
+1097,1/1/2025,407.18,shopping,Netflix
+1097,1/13/2025,373.29,shopping,Amazon
+1097,5/31/2025,350.12,shopping,Netflix
+1097,5/28/2025,620.98,entertainment,Walmart
+1097,1/31/2025,447.99,groceries,Delta Airlines
+1097,12/26/2024,833.54,shopping,Walmart
+1097,2/19/2025,672.91,travel,Netflix
+1098,5/12/2025,241.37,bills,Apple Store
+1098,2/14/2025,544.61,groceries,Amazon
+1098,1/10/2025,881.28,entertainment,Netflix
+1098,2/6/2025,654.37,travel,Apple Store
+1098,3/17/2025,537.63,groceries,Walmart
+1098,1/22/2025,331.09,groceries,Apple Store
+1098,5/14/2025,339.67,bills,Netflix
+1098,1/4/2025,672.79,shopping,Delta Airlines
+1098,1/8/2025,994.2,healthcare,Delta Airlines
+1098,12/31/2024,665.22,healthcare,Apple Store
+1098,1/9/2025,562.21,groceries,CVS
+1098,2/16/2025,733.34,shopping,CVS
+1098,2/5/2025,470.55,shopping,Netflix
+1098,5/15/2025,69.54,shopping,Netflix
+1098,3/18/2025,566.67,healthcare,Delta Airlines
+1098,3/22/2025,958.05,entertainment,CVS
+1099,3/21/2025,638.61,bills,Delta Airlines
+1099,1/30/2025,757.29,bills,CVS
+1099,2/12/2025,178.77,bills,Amazon
+1099,4/11/2025,415.38,bills,Delta Airlines
+1099,2/17/2025,428.46,healthcare,CVS
+1099,3/9/2025,823.59,healthcare,Delta Airlines
+1099,2/10/2025,11.22,travel,Delta Airlines
+1099,6/2/2025,307.84,entertainment,Amazon
+1099,5/23/2025,981.42,entertainment,Apple Store
+1099,3/30/2025,480.14,travel,Walmart
+1099,3/17/2025,388.7,groceries,Apple Store
+1099,2/24/2025,128.63,bills,Walmart
+1099,12/23/2024,974.42,shopping,Amazon
+1099,4/20/2025,29.83,bills,Netflix
+1099,1/25/2025,739.81,travel,Netflix
+1099,2/2/2025,770.91,healthcare,CVS
+1099,4/24/2025,251.22,shopping,Apple Store
+1100,6/2/2025,525.75,groceries,Delta Airlines
+1100,12/14/2024,627.35,entertainment,Amazon
+1100,12/15/2024,98.23,healthcare,Amazon
+1100,1/18/2025,757.72,healthcare,Walmart
+1100,6/4/2025,136.44,bills,Amazon
+1100,12/28/2024,827.81,entertainment,Delta Airlines
+1100,4/28/2025,784.21,healthcare,Apple Store
+1100,3/5/2025,711.66,groceries,CVS
+1100,3/9/2025,45.8,entertainment,Apple Store
+1100,3/31/2025,310.1,bills,Amazon
+1100,5/6/2025,270.48,healthcare,Netflix
+1100,6/5/2025,366.54,travel,Netflix
+1100,4/4/2025,96.77,groceries,Netflix
+1100,5/18/2025,937.59,healthcare,Walmart
+1100,3/17/2025,558.26,groceries,Netflix
+1100,1/15/2025,312.47,travel,Apple Store
+1100,1/2/2025,403.01,groceries,Netflix
+1100,2/26/2025,452.73,travel,Amazon
